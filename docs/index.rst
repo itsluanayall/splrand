@@ -6,6 +6,8 @@
 Welcome to splrand's documentation!
 ===================================
 
+Hello my name is Luana I am an Italian student and I like to dance.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
