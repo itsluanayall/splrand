@@ -7,6 +7,7 @@ Welcome to splrand's documentation!
 ===================================
 
 Hello my name is Luana I am an Italian student and I like to dance.
+I like physics, too.
 
 .. toctree::
    :maxdepth: 2
