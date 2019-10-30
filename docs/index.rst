@@ -21,3 +21,13 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. _api:
+Python package with modules for probability density functions generators
+========================================================================
+
+Modules
+-------
+
+.. automodule:: splrand.pdf
+   :members:
